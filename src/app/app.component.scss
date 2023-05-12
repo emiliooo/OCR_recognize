@@ -1,0 +1,37 @@
+img {
+    width: 50%;
+}
+
+h1 {
+    border-bottom: 1px solid;
+}
+
+button {
+    font-size: 15px;
+    padding: 9px;
+    border-radius: 7px;
+    cursor: pointer;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+.btn {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 19px;
+    align-content: flex-end;
+}
+
+input#fileInput {
+    font-size: 15px;
+}
+
+input#fileInput{
+    font-size: 15px;
+}
+
+.result {
+    margin: 24px;
+    font-size: 19px;
+}
